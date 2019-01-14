@@ -1,7 +1,7 @@
-Name        Domain          IP
-CLIENT      LAB.PRI         192.168.10.100
-DC          LAB.PRI         192.168.10.2
-MEMBER      LAB.PRI         192.168.10.10
-WIN7        LAB.PRI         192.168.10.107
-FDC         FOREIGN.PRI     192.168.10.13
-RDC         REMOTE.PRI      192.168.10.12
+Name        Domain          IP                  OS
+CLIENT      LAB.PRI         192.168.10.100      Windows 8.1
+DC          LAB.PRI         192.168.10.2        Windows Server 2012R2
+MEMBER      LAB.PRI         192.168.10.10       Windows Server 2012R2
+WIN7        LAB.PRI         192.168.10.107      Windows 7 SP1
+FDC         FOREIGN.PRI     192.168.10.13       Windows Server 2012R2
+RDC         REMOTE.PRI      192.168.10.12       Windows Server 2012R2
