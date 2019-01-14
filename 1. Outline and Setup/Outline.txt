@@ -1,0 +1,12 @@
+PowerShell Core
+PowerShell Remoting
+WMI and CIM
+Jobs
+PowerShell Scripting
+Advanced Functions
+Advanced Scripting Techniques
+PowerShell in the Field
+PowerShell Workflow
+Desired State Configuration
+Writing Scripts for Other People
+Advanced Core Techniques, Tips, and Tricks
